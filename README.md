@@ -7,6 +7,9 @@ Duas Funções para comunicação de datas. Confirmação de Pagamento e Data de
 2) FUNCTION zmfmm_mcte_conf_pag_post
 
 Prints com as tabelas de configurações da comunicação
+1) Tabela de Configuração Chaves.jpg
+2) Tabela de Configuração.jpg
+3) Tabela de Log.jpg
 
 Funções extras de Criação de Log
 1) FUNCTION zmfmm_mcte_cria_log
